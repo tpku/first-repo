@@ -7,4 +7,6 @@
 ###### smallest-title
 
 # Queen Freddie
-![](https://github.com/tpku/first-rep/freddie.gif)
+![](https://github.com/tpku/first-repo/blob/main/freddie.gif)
+![](https://github.com/tpku/first-repo/blob/main/freddie.gif)
+![](https://github.com/tpku/first-repo/blob/main/freddie.gif)
